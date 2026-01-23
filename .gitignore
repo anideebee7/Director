@@ -1,5 +1,4 @@
 .idea
-.env
 .env.backup
 venv
 .venv
@@ -17,3 +16,4 @@ package-lock.json
 *.mjs
 site/*
 backend/director/downloads
+config.bat
